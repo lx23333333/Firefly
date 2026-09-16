@@ -90,8 +90,8 @@ export const siteConfig: SiteConfig = {
 	// 如果启用了OpenGraph图片功能，数组中需要包含png格式的favicon图标
 	favicon: [
 		{
-			// 图标文件路径
-			src: "src/assets/images/lqxfavicon.png",
+			// 文件放在 public/favicon 下，使用以 / 开头的网站路径（不要填写 src 路径）
+			src: "/favicon/lqxfavicon.png",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
