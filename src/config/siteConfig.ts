@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "野生狗奶批发处",
 
 	// 站点副标题
-	subtitle: "ysgnpfc",
+	subtitle: "吉吉喳喳",
 
 	// 站点 URL
 	site_url: "https://842111.xyz",
@@ -81,9 +81,9 @@ export const siteConfig: SiteConfig = {
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
