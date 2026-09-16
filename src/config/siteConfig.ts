@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "野生狗奶批发处",
+	title: "Lestat的博客",
 
 	// 站点副标题
-	subtitle: "吉吉喳喳",
+	subtitle: "Lestat的个人博客,记录技术文章和生活随笔",
 
 	// 站点 URL
 	site_url: "https://842111.xyz",
@@ -91,7 +91,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/firefly-32.png",
+			src: "src/assets/images/lqxfavicon.png",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -112,12 +112,12 @@ export const siteConfig: SiteConfig = {
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
 		logo: {
 			type: "image",
-			value: "assets/images/logo/firefly-light.png",
-			valueDark: "assets/images/logo/firefly-dark.png",
-			alt: "🍀",
+			value: "assets/images/logo/lqxlogo2.png",
+			//valueDark: "assets/images/logo/firefly-dark.png",
+			alt: "洛琪希",
 		},
 		// 导航栏标题
-		title: "狗奶批发处",
+		title: "Lestat",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
