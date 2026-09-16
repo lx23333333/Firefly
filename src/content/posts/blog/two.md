@@ -2,9 +2,12 @@
 title: two
 published: 2026-09-16
 description: 第二篇博客
-image: src\content\posts\blog\雷姆.png
+image: "./lm.png"
 tags: [Firefly, 布局, 博客, 指南]
 category: 博客指南
 draft: false
-author: 野生狗奶批发处
+author: Lestat
 ---
+
+测试一下文章封面图以及文本中添加图片
+![lm](./lm.png)
