@@ -1,6 +1,6 @@
 ---
 title: two
-published: 2026-09-16
+published: 2026-09-16T10:00:00+08:00
 description: 第二篇博客
 image: "./lm.png"
 tags: [Firefly, 布局, 博客, 指南]
