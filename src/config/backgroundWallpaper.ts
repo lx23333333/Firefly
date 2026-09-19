@@ -53,15 +53,10 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
 			"assets/images/MobileWallpaper/mm1.png",
-			//"assets/images/MobileWallpaper/fll1.png",
-			//"assets/images/MobileWallpaper/fll2.png",
-			//"assets/images/MobileWallpaper/fll3.png",
-			//"assets/images/MobileWallpaper/ls1.png",
-			//"assets/images/MobileWallpaper/ls2.png",
-			//"assets/images/MobileWallpaper/ls3.png",
-			//"assets/images/MobileWallpaper/ls4.png",
-			//"assets/images/MobileWallpaper/ls5.png",
-			//"assets/images/MobileWallpaper/pw1.png",
+			"assets/images/MobileWallpaper/amly1.png",
+			"assets/images/MobileWallpaper/dpg1.png",
+			"assets/images/MobileWallpaper/hf1.webp",
+			"assets/images/MobileWallpaper/re1.png",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
