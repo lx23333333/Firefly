@@ -52,15 +52,16 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/fll1.png",
-			"assets/images/MobileWallpaper/fll2.png",
-			"assets/images/MobileWallpaper/fll3.png",
-			"assets/images/MobileWallpaper/ls1.png",
+			"assets/images/MobileWallpaper/mm1.png",
+			//"assets/images/MobileWallpaper/fll1.png",
+			//"assets/images/MobileWallpaper/fll2.png",
+			//"assets/images/MobileWallpaper/fll3.png",
+			//"assets/images/MobileWallpaper/ls1.png",
 			//"assets/images/MobileWallpaper/ls2.png",
-			"assets/images/MobileWallpaper/ls3.png",
-			"assets/images/MobileWallpaper/ls4.png",
-			"assets/images/MobileWallpaper/ls5.png",
-			"assets/images/MobileWallpaper/pw1.png",
+			//"assets/images/MobileWallpaper/ls3.png",
+			//"assets/images/MobileWallpaper/ls4.png",
+			//"assets/images/MobileWallpaper/ls5.png",
+			//"assets/images/MobileWallpaper/pw1.png",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
@@ -168,7 +169,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 图片位置
 		// 支持所有CSS object-position值，如: 'top', 'center', 'bottom', 'left top', 'right bottom', '25% 75%', '10px 20px'..
 		// 如果不知道怎么配置百分百之类的配置，推荐直接使用：'center'居中，'top'顶部居中，'bottom' 底部居中，'left'左侧居中，'right'右侧居中
-		position: "0% 20%",
+		position: "center",
 		// 文章横幅信息："description" 显示描述，"meta" 显示日期、字数和阅读时长
 		postInfo: {
 			mode: "description",
