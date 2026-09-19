@@ -48,11 +48,51 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
+			name: "归期",
+			artist: "Runyu Qian",
+			url: "/assets/music/guiqi.mp3",
+			cover: "/assets/music/cover/fr1.jpg",
+			lrc: "",
+			},
+
+			{
 				name: "stay alive",
 				artist: "高桥李依",
 				url: "/assets/music/stayalive.mp3",
-				cover: "/assets/music/cover/aowu.jpg",
+				cover: "/assets/music/cover/amly1.jpg",
 				lrc: "",
+			},
+
+			{
+			name: "unhappy",
+			artist: "s0rrow",
+			url: "/assets/music/unhappy.mp3",
+			cover: "/assets/music/cover/rm1.jpg",
+			lrc: "",
+			},
+
+			{
+			name: "众生(《狐妖小红娘·南国篇》动画片头曲)",
+			artist: "Gary Chan",
+			url: "/assets/music/众生.mp3",
+			cover: "/assets/music/cover/hyxhn1.webp",
+			lrc: "",
+			},
+
+			{
+			name: "Another Day of Sun",
+			artist: "La La Land Cast",
+			url: "/assets/music/AnotherDayofSun.mp3",
+			cover: "/assets/music/cover/ayzc1.jpg",
+			lrc: "",
+			},
+
+			{
+			name: "Season of Rain",
+			artist: "Pets Tseng",
+			url: "/assets/music/SeasonofRain.mp3",
+			cover: "/assets/music/cover/pets1.jpg",
+			lrc: "",
 			},
 		],
 	},
