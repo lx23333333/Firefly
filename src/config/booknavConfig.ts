@@ -60,11 +60,17 @@ export const booknavConfig: BooknavGroup[] = [
 				weight: 7,
 			},
 			{
-				title: "Tailwind CSS",
-				url: "https://tailwindcss.com",
-				desc: "一个功能强大且灵活的 CSS 框架",
+				title: "ChatGPT",
+				url: "https://chatgpt.com",
+				desc: "OpenAI 伟大无需多言",
 				weight: 6,
 			},
+			{
+				title: "Hugging Face",
+				url: "https://huggingface.co",
+				desc: "机器学习模型和数据集的协作平台",
+				weight: 5,
+			}
 		],
 	},
 	{
@@ -102,6 +108,12 @@ export const booknavConfig: BooknavGroup[] = [
 				desc: "阿里巴巴矢量图标库",
 				weight: 9,
 			},
+			{
+				title: "Wallhaven",
+				url: "https://wallhaven.cc",
+				desc: "高质量的壁纸网站",
+				weight: 8,
+			}
 		],
 	},
 	{
