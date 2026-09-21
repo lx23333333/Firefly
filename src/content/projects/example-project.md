@@ -7,9 +7,11 @@ order: 100
 description: "本文档介绍项目集合的 Frontmatter 字段与状态键值，供你在 src/content/projects/ 下编写项目时参考。"
 image: ""
 status: "planning"
+draft: true
 tags:
   - 文档
   - 指南
+
 ---
 
 ## 项目展示页使用指南
