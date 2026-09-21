@@ -123,7 +123,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "https://blog.842111.xyz/sponsor/",
 				},
 				{
-					name: "哔哩哔哩",
+					name: "bilibili",
 					icon: "fa7-brands:bilibili",
 					url: "https://space.bilibili.com/388978987",
 				},
