@@ -123,9 +123,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "https://blog.842111.xyz/sponsor/",
 				},
 				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
+					name: "哔哩哔哩",
+					icon: "fa7-brands:bilibili",
+					url: "https://space.bilibili.com/388978987",
 				},
 			],
 		},
