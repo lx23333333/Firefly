@@ -82,7 +82,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			subtitle: [
 				"技术分享",
 				"大模型",
-				"ros2",
+				"AI",
 				"朋友圈",
 				"分享生活",
 				"摄影",
