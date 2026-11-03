@@ -78,7 +78,7 @@ async function main() {
 		console.log(`No existing ${OUTPUT_FILE} found, will create new.`);
 	}
 
-	const files = await glob("{src,public}/**/*.{png,jpg,jpeg,webp,avif}", {
+	const files = await glob("{src,public}/**/*.{png,jpg,jpeg,webp,avif,gif}", {
 		ignore: IGNORE_DIRS,
 	});
 
