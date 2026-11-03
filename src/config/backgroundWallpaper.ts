@@ -83,8 +83,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"技术分享",
 				"大模型",
 				"AI",
-				"朋友圈",
-				"分享生活",
+				"具身智能",
+				"爱，死亡，机器人",
 				"摄影",
 			],
 			// 主页横幅副标题字体大小
